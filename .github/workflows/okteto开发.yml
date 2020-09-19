@@ -1,4 +1,4 @@
-name: okteto开发
+name: okteto-dev
 on:
   push:
     branches: [master]
